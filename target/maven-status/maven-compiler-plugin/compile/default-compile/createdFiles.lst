@@ -1,0 +1,5 @@
+com\example\lojaroupa\models\ProductModel.class
+com\example\lojaroupa\controllers\ProductController.class
+com\example\lojaroupa\dtos\ProductRecordDto.class
+com\example\lojaroupa\repositories\ProductRepository.class
+com\example\lojaroupa\LojaroupaApplication.class
